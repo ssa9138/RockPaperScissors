@@ -39,12 +39,17 @@ cd RockPaperScissors/frontend
 ### Abhängigkeiten installieren
 ```bash
 npm install
+```
 
 ---
 ### Projekt starten
 ```bash
 npm run dev
+```
 ---
 
 ### Frontend erreichbar unter:
+```bash
+
 -> http://localhost:5173
+```
