@@ -34,7 +34,7 @@ und decken ihn später auf. Der Gewinner erhält den vollständigen Einsatz.
 ```bash
 git clone https://github.com/ssa9138/RockPaperScissors.git
 cd RockPaperScissors/frontend
-
+```
 ---
 ### Abhängigkeiten installieren
 ```bash
