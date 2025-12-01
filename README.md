@@ -51,5 +51,5 @@ npm run dev
 ### Frontend erreichbar unter:
 ```bash
 
--> http://localhost:5173
+http://localhost:5173
 ```
